@@ -3,3 +3,4 @@
 .env
 models/*
 .ipynb_checkpoints/*
+**/__pycache__/**
