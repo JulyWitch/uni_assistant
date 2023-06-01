@@ -1,0 +1,4 @@
+*.session
+*.session-journal
+.env
+models/*
